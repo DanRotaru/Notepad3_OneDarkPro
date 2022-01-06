@@ -1,5 +1,5 @@
 # Notepad3_OneDarkPro
-One Dark Pro Theme for Notepad3
+One Dark Pro Theme for [Notepad3](https://github.com/rizonesoft/Notepad3)
 
 ## Instalation
 
